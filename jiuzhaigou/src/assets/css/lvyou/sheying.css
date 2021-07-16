@@ -1,0 +1,105 @@
+ 
+.bg-sy>.zhanshi>.can3title {
+  font-size: 2.5rem;
+  height: 140px;
+  width: 100%;
+  text-align: center;
+  padding-top: 40px;
+}
+.bg-sy> .zhanshi {
+  width: 1110px;
+  height: 760px;
+  background-color: white;
+  margin: 0 auto;
+  border-radius: 8px;
+}
+ .bg-sy>.zhanshi>.sylb {
+  width: 1000px;
+  margin: 0 auto;
+}
+  #syzlimage {
+  border-radius: 10px;
+}
+ .bg-sy>.el-carousel__item h3 {
+  font-size: 14px;
+  opacity: 0.75;
+  line-height: 200px;
+  margin: 0;
+}
+ 
+ .bg-sy>.bgbulunbo {
+  margin: 0 auto;
+  width: 100% !important;
+}
+ .bg-sy>#can3 {
+  height: 720px;
+}
+ .bg-sy>#can1 {
+  height: 780px;
+}
+ .bg-sy>#can2 {
+  height: 700px;
+}
+ .bg-sy>.carousel {
+  border: 2px solid white;
+  border-radius: 4px;
+}
+.bg-sy {
+  background-color: #ca3f73;
+}
+.bg-sy> .cantainer {
+  width: 1110px;
+  height: 960px;
+  margin: 0 auto;
+  background-color: white;
+  border-radius: 1%;
+  margin-bottom: 1.5rem;
+}
+.bg-sy> .cantainer1 {
+  margin-bottom: 0;
+}
+.bg-sy> .cantainer > center {
+  padding: 20px 0;
+  display: block;
+  font-size: 20px;
+  color: #638583;
+  font-size: 2.25rem;
+}
+.cantainer > .wenzi {
+  padding: 0 123px;
+  margin-bottom: 30px;
+}
+ .bg-sy>.cantainer > .wenzi > span {
+  /* 文字缩进 */
+  text-indent: 2em;
+  color: #736a7b;
+  font-family: domine, sans-serif, Tahoma, Geneva, Arial, "Microsoft YaHei",
+    微软雅黑;
+  font-size: 1.15rem;
+  font-weight: 400;
+}
+ .bg-sy>.cantainer > .tupian {
+  width: 945px;
+  margin: 0 120px;
+}
+.bg-sy> .cantainer > .tupian > img {
+  width: 395px;
+  height: 266px;
+  border-radius: 2%;
+}
+ .bg-sy>.cantainer > .tupian > img:first-child {
+  margin-right: 88px;
+}
+ .bg-sy>.cantainer > .footer > span:first-child {
+  margin-left: 16rem;
+  margin-right: 24.7rem;
+}
+ .bg-sy>.cantainer > .footer > span {
+  font-family: "nexa";
+  font-weight: 700;
+  font-size: 1.2rem;
+  color: #656a7b;
+  margin-top: 0.5rem;
+  display: inline-block;
+}
+ 

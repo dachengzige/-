@@ -1,0 +1,102 @@
+.bgbu > .bgbulunbo {
+    margin: 0 auto;
+    width: 100% !important;
+  }
+  
+  .bgbu > #img_show {
+    padding-top: 50px;
+    width: auto;
+    width: 76%;
+    margin: 0 auto;
+  }
+  
+  .bgbu > #kpcan1 {
+    height: 740px;
+  }
+  .bgbu > #kpcan2 {
+    height: 740px;
+  }
+  .bgbu > #kpcan3 {
+    height: 690px;
+  }
+  .bgbu > #kpcan4 {
+    height: 740px;
+  }
+  .bgbu > #kpcan5 {
+    height: 720px;
+    margin-bottom: 0;
+  }
+  .bgbu > * {
+    margin: 0;
+    padding: 0;
+  }
+  .bgbu > .carousel {
+    border: 2px solid white;
+    border-radius: 4px;
+  }
+  .bgbu {
+    background-color: #096faf;
+  }
+  
+  .bgbu > .cantainer {
+    width: 1140px;
+    height: 800px;
+    margin: 0 auto;
+    background-color: white;
+    border-radius: 1%;
+    margin-bottom: 1.5rem;
+  }
+  .bgbu > body > .cantainer:nth-child(2) {
+    height: 655px;
+  }
+  .bgbu > body > .cantainer:nth-child(3) {
+    height: 655px;
+  }
+  .bgbu > body > .cantainer:nth-child(5) {
+    height: 670px;
+  }
+  .bgbu > .cantainer > center {
+    padding: 20px 0;
+    display: block;
+    font-size: 20px;
+    color: #638583;
+    font-size: 2.25rem;
+  }
+  .bgbu > .cantainer > .wenzi {
+    padding: 0 123px;
+    margin-bottom: 30px;
+  }
+  .bgbu > .cantainer > .wenzi > p {
+    /* 文字缩进 */
+    text-indent: 2em;
+    color: #736a7b;
+    font-family: domine, sans-serif, Tahoma, Geneva, Arial, "Microsoft YaHei",
+      微软雅黑;
+    font-size: 1.15rem;
+    font-weight: 400;
+  }
+  .bgbu > .cantainer > .tupian {
+    width: 945px;
+  
+    margin: 0 120px;
+  }
+  .bgbu > .cantainer > .tupian > img {
+    width: 395px;
+    height: 266px;
+    border-radius: 2%;
+  }
+  .bgbu > .cantainer > .tupian > img:first-child {
+    margin-right: 88px;
+  }
+  .bgbu > .cantainer > .footer > span:first-child {
+    margin-left: 16rem;
+    margin-right: 24.7rem;
+  }
+  .bgbu > .cantainer > .footer > span {
+    font-family: "nexa";
+    font-weight: 700;
+    font-size: 1.2rem;
+    color: #656a7b;
+    margin-top: 0.5rem;
+    display: inline-block;
+  }

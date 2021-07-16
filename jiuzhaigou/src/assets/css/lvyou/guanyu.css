@@ -1,0 +1,139 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #FFFFFF;
+}
+.guanyu .cantainer{
+    width: 1025px;
+    height: 740px;
+    margin: 0 auto;
+    background-color: white;
+    border-radius: 1%;
+    margin-bottom: 1.5rem;
+    box-shadow: 0 0 50px rgb(0, 0, 0,0.2) ;
+
+}
+.guanyu  > .cantainer:nth-child(2){
+    height: 900px !important;
+}
+.guanyu  > .cantainer:nth-child(4){
+    height: 770px !important;
+}
+.guanyu .cantainer > center{
+    padding: 20px 0;
+    display: block;
+    font-size: 20px;
+    color: #638583; 
+    font-size: 2.25rem;
+}
+.guanyu .cantainer > .wenzi{
+    padding: 0 123px;
+    margin-bottom: 30px;
+}
+.guanyu .cantainer > .wenzi > p{
+    /* 文字缩进 */
+    text-indent: 2em;
+    color: #736A7B;
+    font-family: domine, sans-serif, Tahoma, Geneva, Arial, "Microsoft YaHei", 微软雅黑;
+    font-size: 1.15rem;
+    font-weight: 400;
+}
+.guanyu .cantainer > .tupian{
+    width: 1020px;
+
+    margin: 0 74px;
+}
+.guanyu .cantainer > .tupian> img{
+    width: 395px;
+    height: 266px;
+    border-radius: 2%;
+}
+.guanyu .cantainer > .tupian>img:first-child{
+    margin-right: 88px;
+}
+.guanyu .cantainer > .footer>span:first-child{
+   margin-left: 11rem;
+   margin-right: 24.7rem;
+}
+.guanyu .cantainer > .footer{
+    width: 1000px;
+
+    margin: 0 46px;
+}
+
+.guanyu .cantainer > .footer>span{
+    font-family: domine, sans-serif, Tahoma, Geneva, Arial, "Microsoft YaHei", 微软雅黑;
+    font-weight: 400;
+    font-size: 0.9rem;
+    position: relative;
+    line-height: 1.4;
+    color: #736A7B;
+}
+.guanyu .cantainer > .footer > span:nth-child(2){
+    margin-left: 80px;
+}
+.guanyu .cantainer2{
+    width: 1025px;
+    height: 770px;
+    margin: 0 auto;
+    background-color: white;
+    border-radius: 1%;
+    margin-bottom: 1.5rem;
+    box-shadow: 0 0 50px rgb(0, 0, 0,0.2) ;
+}
+.guanyu  > .cantainer2:nth-child(2){
+    height: 500px !important;
+}
+.guanyu  > .cantainer2:nth-child(3){
+    height: 628px !important;
+}
+
+.guanyu  > .cantainer2:nth-child(4){
+    height: 635px !important;
+}
+.guanyu  .cantainer2 > center{
+    padding: 20px 0;
+    display: block;
+    font-size: 20px;
+    color: #638583; 
+    font-size: 2.25rem;
+}
+.guanyu  .cantainer2 > .wenzi{
+    padding: 0 123px;
+    margin-bottom: 30px;
+}
+.guanyu  .cantainer2 > .wenzi > p{
+    /* 文字缩进 */
+    text-indent: 2em;
+    color: #736A7B;
+    font-family: domine, sans-serif, Tahoma, Geneva, Arial, "Microsoft YaHei", 微软雅黑;
+    font-size: 1.1rem;
+    font-weight: 400;
+}
+.guanyu   .cantainer2:nth-child(1) > .tupian{
+    width: 1050px;
+    margin-left: 60px;
+}
+.guanyu   .cantainer2:nth-child(1) > .tupian> img{
+  
+    border-radius: 2%;
+    margin: 0 2px;
+    margin-right: 2px;
+}
+.guanyu  .cantainer2 > .tupian{
+    width: 1050px;
+    margin-left: 56px;
+}
+.guanyu  .cantainer2 > .tupian>img{
+    width: 300px;
+    height: 250px;
+    border-radius: 2%;
+    margin: 0 2px;
+    margin-right: 2px;
+}
+.guanyu   .cantainer:nth-child(1) > .tupian> img{
+    width: 395px;
+    height: 266px;
+}

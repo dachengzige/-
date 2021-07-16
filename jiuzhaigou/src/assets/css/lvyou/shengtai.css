@@ -1,0 +1,81 @@
+.bg-gr>.bgbulunbo {
+    margin: 0 auto;
+    width: 100% !important;
+  }
+  .bg-gr>  #img_show {
+    padding-top: 50px;
+    width: auto;
+    width: 73%;
+    margin: 0 auto;
+  }
+  
+   .bg-gr>#can3 {
+    height: 950px;
+  }
+   .bg-gr> #can1 {
+    height: 820px;
+  }
+  .bg-gr> #can2 {
+    height: 960px;
+  }
+  .bg-gr> .carousel {
+    border: 2px solid white;
+    border-radius: 4px;
+  }
+    .bg-gr {
+    background-color: #20615b;
+  }
+  
+  .bg-gr> .cantainer {
+    width: 1110px;
+    height: 960px;
+    margin: 0 auto;
+    background-color: white;
+    border-radius: 1%;
+    margin-bottom: 1.5rem;
+  }
+  
+  .bg-gr> .cantainer > center {
+    padding: 20px 0;
+    display: block;
+    font-size: 20px;
+    color: #638583;
+    font-size: 2.25rem;
+  }
+  .bg-gr> .cantainer > .wenzi {
+    padding: 0 123px;
+    margin-bottom: 30px;
+  }
+  .bg-gr>  .cantainer > .wenzi > span {
+    /* 文字缩进 */
+    text-indent: 2em;
+    color: #736a7b;
+    font-family: domine, sans-serif, Tahoma, Geneva, Arial, "Microsoft YaHei",
+      微软雅黑;
+    font-size: 1.15rem;
+    font-weight: 400;
+  }
+   .bg-gr>.cantainer > .tupian {
+    width: 945px;
+    margin: 0 120px;
+  }
+   .bg-gr> .cantainer > .tupian > img {
+    width: 395px;
+    height: 266px;
+    border-radius: 2%;
+  }
+   .bg-gr>.cantainer > .tupian > img:first-child {
+    margin-right: 88px;
+  }
+   .bg-gr>.cantainer > .footer > span:first-child {
+    margin-left: 16rem;
+    margin-right: 24.7rem;
+  }
+   .bg-gr>.cantainer > .footer > span {
+    font-family: "nexa";
+    font-weight: 700;
+    font-size: 1.2rem;
+    color: #656a7b;
+    margin-top: 0.5rem;
+    display: inline-block;
+  }

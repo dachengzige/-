@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #E5DCC2;
+}
+.cantainer{
+    width: 1025px;
+    height: 820px;
+    margin: 0 auto;
+    background-color: white;
+    border-radius: 1%;
+    margin-bottom: 1.5rem;
+    box-shadow: 0 0 50px rgb(0, 0, 0,0.2) ;
+}
+
+.cantainer > center{
+    padding: 20px 0;
+    display: block;
+    font-size: 20px;
+    color: #638583; 
+    font-size: 2.25rem;
+}
+.cantainer > .wenzi{
+    padding: 0 123px;
+    margin-bottom: 30px;
+}
+.cantainer > .wenzi > p{
+    /* 文字缩进 */
+    text-indent: 2em;
+    color: #736A7B;
+    font-family: domine, sans-serif, Tahoma, Geneva, Arial, "Microsoft YaHei", 微软雅黑;
+    font-size: 1.1rem;
+    font-weight: 400;
+}
+
+body .cantainer:nth-child(1) > .tupian> img{
+    width: 450px;
+    height: 320px;
+    border-radius: 2%;
+    margin: 0 2px;
+    margin-right: 22px;
+}
+.cantainer > .tupian{
+    width: 1050px;
+   margin-left: 3rem;
+}
+.cantainer > .tupian>img{
+    width: 300px;
+    height: 250px;
+    border-radius: 2%;
+    margin: 0 2px;
+    margin-right:20px;
+}
